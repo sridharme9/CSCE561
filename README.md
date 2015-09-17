@@ -1,4 +1,4 @@
-# Parallel Regular Expression Search Over Encrypted Data
+# Parallel Regular Expression Search Over Encrypted Data [RESeED]
 
 RESeED - Regular Expression Search Over Encrypted Data - Hadoop Map Reduce
 
